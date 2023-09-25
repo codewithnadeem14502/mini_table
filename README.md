@@ -1,4 +1,6 @@
-# React + Vite
+# Mini_table
+
+live link : https://mini-table.vercel.app/
 
 
 ![Screenshot 2023-09-26 030250](https://github.com/codewithnadeem14502/mini_table/assets/105824474/06de1e2d-8fc9-481e-94ee-751350cc1c26)
